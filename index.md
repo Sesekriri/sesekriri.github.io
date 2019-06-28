@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to sesekriri's page (aka Hugo Sesek)
 
-You can use the [editor on GitHub](https://github.com/Sesekriri/sesekriri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dark theme is by far the best theme to use, it is easy on the eyes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CS-HU250
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will be using this github page for my CS-HU250 class as well as other classes. 
 
 ```markdown
-Syntax highlighted code block
+Here is some text
 
-# Header 1
-## Header 2
-### Header 3
+# Garbage text
 
-- Bulleted
-- List
+I like 
+1. Numbered things
+2. Lists
+3. Programming
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Here is a helpful link.
+[Link](https://www.google.com/)
 ```
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Feel free to email me at 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sesekriri/sesekriri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- sesekriri@gmail.com 
+or
+- hugosesek@u.boisestate.edu
