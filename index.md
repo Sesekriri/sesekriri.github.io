@@ -17,8 +17,9 @@ I like
 3. Programming
 
 Here is a helpful link.
-[Link](https://www.google.com/)
+https://www.google.com/
 ```
+
 ### Contact
 
 Feel free to email me at 
